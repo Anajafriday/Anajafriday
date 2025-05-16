@@ -9,7 +9,7 @@ I'm **Friday Anaja**, a passionate software developer dedicated to creating impa
 - Exploring **full-stack development** with a strong focus on **MERN**, while integrating modern tools and best practices.  
 
 ### 🌱 Current Learning Journey  
-- Enhancing my expertise in **Next.js** for optimized and scalable web applications.  
+- Enhancing my expertise in **Remix.run** for optimized and scalable web applications.  
 - Diving into **Python** to expand my backend capabilities and explore data-driven solutions.  
 
 ### 👯 Let’s Collaborate!  
